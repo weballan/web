@@ -1,0 +1,1 @@
+$(document).ready(function(){	$('#jsMenu').on('click',function(){		if($(this).hasClass('active')){			$(this).removeClass('active');			$('#navPop').removeClass('display');			$('body').removeClass('bodyHidden');		}else{			$(this).addClass('active');			$('#navPop').addClass('display');			$('body').addClass('bodyHidden');		}	})});
