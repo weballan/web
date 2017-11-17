@@ -1,0 +1,1 @@
+var schemeList = new Swiper('.schemeList', {	autoplay:3000,	loop:true,	slidesPerView:3,	spaceBetween:20,	nextButton:'.swiper-button-next',	prevButton:'.swiper-button-prev'});

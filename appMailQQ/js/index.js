@@ -1,0 +1,1 @@
+$(document).ready(function(){	$('.nav').on('click','li',function(){		var len=$(this).index();		var content=$('.content');		var $this=$(this);		content.removeClass('display');		$this.addClass('active').siblings().removeClass('active');		content.eq(len).addClass('fadeInRight display');		console.log(len)	})});
