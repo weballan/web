@@ -1,0 +1,1 @@
+@charset "UTF-8";.indexNav{		}.indexNav li{	width:50%;	border-right:1px #E3E3E3 solid;	border-bottom:1px #e3e3e3 solid;	}.indexNav li:nth-child(2n+0){	border-right:0;	}.indexNav li a{		}.signBg{	background-image:url(../images/index/sign_bg.jpg);	}.choiceBg{	background-image:url(../images/index/choice_bg.jpg);	}

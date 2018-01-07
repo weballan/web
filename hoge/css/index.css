@@ -1,1 +1,1 @@
-@charset "UTF-8";
+@charset "UTF-8";.solution{		}.solution-list{		}.solution-list li{	float:left;	width:25%;	padding-right:10px;	}.solution-list li .items{	width:100%;	height:430px;	background:#fff;	border-top:4px solid #dfdfdf;	box-shadow:0 1px 3px hsla(0,0%,61%,.35);	}

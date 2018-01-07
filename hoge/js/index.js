@@ -1,1 +1,1 @@
-$(document).ready(function(){});
+$(document).ready(function(){	var jsHeader=$('#js-header');	$(window).on('scroll',function(){		var $scroll=$(this).scrollTop();		if($scroll>jsHeader.height() && !jsHeader[0].hasAttribute('style')){			jsHeader.css({				'background':'rgba(50,50,50,.8)'			})		}else if($scroll< jsHeader.height()){			jsHeader.removeAttr('style');		}	})});

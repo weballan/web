@@ -1,0 +1,1 @@
+window.services={	toast:function(text){		var toast=document.createElement('div');		toast.className='toast';		toast.innerHTML=text;		document.body.appendChild(toast);		var numLength=document.querySelectorAll('.toast').length;		if(numLength>1){			document.body.removeChild(document.querySelectorAll('.toast')[0])		}	}};
