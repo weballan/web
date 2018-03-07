@@ -1,0 +1,1 @@
+(function(){	var bodySize=document.documentElement.clientWidth/7.5;	if(bodySize>=64){		bodySize=64;	}	document.documentElement.style.fontSize=bodySize+'px';})();
