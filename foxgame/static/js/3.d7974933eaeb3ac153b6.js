@@ -1,0 +1,2 @@
+webpackJsonp([3],{SjIV:function(e,t){},Uy2o:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("section",[this._v("\r\t\t任务Details\r\t")])},staticRenderFns:[]};var a=n("VU/8")({name:"Details"},r,!1,function(e){n("SjIV")},"data-v-a0c0f648",null);t.default=a.exports}});
+//# sourceMappingURL=3.d7974933eaeb3ac153b6.js.map

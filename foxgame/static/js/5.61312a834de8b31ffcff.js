@@ -1,0 +1,2 @@
+webpackJsonp([5],{AmY8:function(e,t){},azRK:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("section",[t("router-view")],1)},staticRenderFns:[]};var a=n("VU/8")({name:"Details"},r,!1,function(e){n("AmY8")},"data-v-36cd5d60",null);t.default=a.exports}});
+//# sourceMappingURL=5.61312a834de8b31ffcff.js.map
