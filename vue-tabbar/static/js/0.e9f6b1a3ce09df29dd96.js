@@ -1,0 +1,2 @@
+webpackJsonp([0],{"4kfl":function(e,t){},fy7F:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-link",{attrs:{to:{name:"housesDetails"}}},[this._v("houses")]),this._v(" "),t("router-view")],1)},staticRenderFns:[]};var r=s("VU/8")({name:"houses"},n,!1,function(e){s("4kfl")},"data-v-9e742abe",null);t.default=r.exports}});
+//# sourceMappingURL=0.e9f6b1a3ce09df29dd96.js.map

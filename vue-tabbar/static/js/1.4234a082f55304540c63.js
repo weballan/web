@@ -1,0 +1,2 @@
+webpackJsonp([1],{"FC+z":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\r\t\thousesDetails\r\t")])},staticRenderFns:[]};var r=n("VU/8")({name:"housesDetails"},s,!1,function(e){n("M5vP")},"data-v-790e62da",null);t.default=r.exports},M5vP:function(e,t){}});
+//# sourceMappingURL=1.4234a082f55304540c63.js.map
