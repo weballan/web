@@ -1,2 +1,0 @@
-webpackJsonp([4],{KEO5:function(e,t){},pzkx:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("section",[this._v("\r\t\t任务Details\r\t")])},staticRenderFns:[]};var s=n("VU/8")({name:"Details"},r,!1,function(e){n("KEO5")},"data-v-7c876e2b",null);t.default=s.exports}});
-//# sourceMappingURL=4.7c78e2d2ac68d8bc3c4c.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([6],{UppF:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("section",[this._v("\r\t\t我的Details\r\t")])},staticRenderFns:[]};var s=n("VU/8")({name:"Details"},r,!1,function(e){n("gTSr")},"data-v-323f41e3",null);t.default=s.exports},gTSr:function(e,t){}});
-//# sourceMappingURL=6.fe86922591a36b0b2b4b.js.map
