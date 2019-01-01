@@ -1,0 +1,1 @@
+var dateYear=document.getElementById('dateFull');dateYear.innerText=new Date().getFullYear();

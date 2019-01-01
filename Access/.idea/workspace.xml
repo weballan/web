@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c2ff897-aa10-4c11-8ca6-5b05225946a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ihaiwai-2018/m/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ihaiwai-2018/w/css/haiyu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ihaiwai-2018/w/haiyu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interlux/w/js/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tgtaimei/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tgtaimei/w/js/html5media.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/m/buyonline.html" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/m/buyonline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/m/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/m/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/m/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/m/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/m/images/banner/banner-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/m/images/footer_coder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/m/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/m/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/m/js/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/m/js/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/m/photo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/m/photo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/w/buyonline.html" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/w/buyonline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/w/css/details.css" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/w/css/details.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/w/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/w/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/w/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/w/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/w/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/w/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/w/images/footer_coder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/w/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/w/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interlux/w/photo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../interlux/w/photo.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-923279436">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="1" />
+          <entry key="js" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="90" column="6" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/metting-style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-463" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/meeting.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>video</find>
+      <find>Video</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="714" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssNoGenericFontName</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Access" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Access" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Access" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Access" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Access" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Access" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Access" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Access" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.splitter.proportion" value="0.24124514" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c2ff897-aa10-4c11-8ca6-5b05225946a4" name="Default Changelist" comment="" />
+      <created>1546228971496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546228971496</updated>
+      <workItem from="1546228972875" duration="1137000" />
+      <workItem from="1546233156571" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1813000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="714" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/services.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/metting-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/meeting.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/meeting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="90" column="6" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19426337" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
